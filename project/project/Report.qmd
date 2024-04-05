@@ -1,0 +1,210 @@
+---
+title: "Urban Evolution"
+subtitle: "Analysing Annual % Change in **Urban Population Growth (2000-2020)**, across Countries and Continents, with Insights into Life Expectancy Trends"
+author: "Aoife Farrell"
+date: "2024-04-03"
+format:
+  html:
+    theme: minty
+    backgroundcolor: lightgreen
+    toc: true
+execute: 
+  echo: false
+  warning: false
+  message: false
+
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+# libraries
+library(tidyverse)
+library(plotly)
+library(dplyr)
+
+# data
+unicef_indicator_2 <- read_csv("unicef_indicator_2.csv")
+unicef_metadata <- read_csv("unicef_metadata.csv")
+Countries_Continents <- read_csv("Countries-Continents.csv")
+
+# transformations
+data_join <- full_join(unicef_indicator_2, unicef_metadata, by = c("country" = "country", "time_period" = "year"))
+data_join1 <- full_join(data_join, Countries_Continents, by = c("country" = "Country"))
+```
+
+
+## Introduction
+
+Welcome to ***'Urban Evolution'***. The analysis presented here delves into the annual percentage change in urban population growth spanning the two-decade period from **2000 to 2020**, offering a comprehensive examination across countries and continents. This study not only investigates the evolving trends in **urbanisation dynamics** but also sheds light on concurrent **shifts in life expectancy patterns**. By exploring the intersection of **urban population growth** and **life expectancy trends**, this analysis aims to uncover valuable insights into the intricate interplay between demographic transitions, socio-economic developments, and public health advancements on a global scale.
+
+## World Maps 
+
+As we delve into the maps, vibrant colors paint a vivid picture of global transformation. These maps shows the overall growth rate of the urban population has slightly declined, but there is still relatively consistent urbanisation patterns in many countries from 2000 to 2020. Trends noted in Africa and some Asian countries in 2000 still remain, as indicated by darker shading in these areas on the 2020 map. This signals rapid urbanisation driven by population and economic factors. Understanding these trends is crucial for addressing challenges and promoting sustainable urban development.
+
+
+
+```{r}
+map_world <- map_data("world")
+
+data_join_2000 <- data_join1 %>%
+  filter(time_period == 2000)
+map_data_join_2000 <- full_join(data_join_2000, map_world, by = c("country" = "region"))
+ggplot(map_data_join_2000) +
+  aes(x = long, y = lat, group = group, fill = obs_value) +
+  geom_polygon() +
+  labs(
+    title = "% Change in Annual Growth Rate of Urban Population in 2000",
+    subtitle = "Countries in grey have no data due to mismatch with their names"
+  )+
+  theme_classic() +
+  theme(text = element_text(family = "serif"))
+```
+```{r}
+data_join_2020 <- data_join1 %>%
+  filter(time_period == 2020)
+
+map_data_join_2020 <- full_join(data_join_2020, map_world, by = c("country" = "region"))
+
+ggplot(map_data_join_2020) +
+  aes(x = long, y = lat, group = group, fill = obs_value) +
+  geom_polygon() +
+  labs(
+    title = "% Change in Annual Growth Rate of Urban Population in 2020",
+    subtitle = "Countries in grey have no data due to mismatch with their names"
+  )+
+  theme_classic() +
+  theme(text = element_text(family = "serif"))
+```
+
+
+## Time Series 
+
+The time series chart from 2000 to 2020 reveals decreasing urban population growth globally, but with Asia and Africa initially experiencing significantly higher rates than other continents. Despite the decline, urban growth in these regions remains relatively high, indicating ongoing rapid urbanisation driven by factors like population growth and economic development.
+
+
+```{r}
+data_join_subset <- data_join1 %>%
+  filter(time_period == c(2020)|time_period == c(2000)) %>%
+  filter(!is.na(Continent))
+
+data_join_subset %>%
+  ggplot() +
+  aes(time_period, obs_value, group = country, color = Continent) +
+  geom_line() +
+  facet_wrap(~ Continent) +
+  labs(
+    x = "", 
+    y = "%Chnage in Annual Growth of Urban Pop", 
+    fill = "Continent",
+    title = "Time Series Showing Evolution in % Change in Annual Growth of Urban Pop
+    (2000 - 2020)",
+    subtitle = "N/A values for continent filtered out"
+  )+
+  theme_classic() +
+  theme(text = element_text(family = "serif"))
+```
+
+
+## Bar Chart 
+The graph depicts the average percentage growth in urban population by continent for the years 2000 and 2020. In 2000, Africa had the highest growth rate, followed by Asia and North America. In 2020, North America slightly surpassed Asia with their growth rate. All countries showed decreases in % change in average annual growth rate in 2020. Europe consistently had the lowest growth rate in both years. This indicates dynamic shifts in urban population growth patterns across continents over the two decades.
+
+
+```{r}
+
+data_join_subset <- data_join1 %>%
+  filter(time_period == c(2020)|time_period == c(2000)) %>%
+  filter(!is.na(Continent))
+
+data_join_subset %>%
+  group_by(Continent, time_period) %>%
+  summarise(m_obs_value = mean(obs_value, na.rm = TRUE)) %>%
+  ggplot() +
+  aes(reorder(Continent, m_obs_value), m_obs_value, fill = Continent) +
+  geom_col() +
+  facet_wrap(~ time_period) +
+  labs(
+  x = "", 
+  y = " % Change in Annual Growth of Urban Pop", 
+  fill = "Continent",
+  title = "Bar Chart Showing Comparison of Average % Change in Annual Growth of
+  Urban Population By Continent",
+  subtitle = "N/A values for continent filtered out"
+)+
+  theme_classic() +
+  theme(text = element_text(family = "serif"),
+  axis.text.x = element_blank()     
+  )
+```
+
+
+## Scatter Plots 
+The scatter plot for the year 2000 reveals an interesting relationship between life expectancy and urban population growth across continents. Specifically, African countries, characterised by lower life expectancies, tend to exhibit higher urban population growth rates. This suggests a potential correlation between lower life expectancies and rapid urbanisation in African nations during that period. The trend underscores the complex interplay between demographic dynamics, socio-economic factors, and urbanisation processes
+
+```{r}
+data_join_2000 <- data_join_2000 %>%
+  filter(!is.na(Continent))
+
+
+ggplot(data_join_2000) +
+  aes(data_join_2000$`Life expectancy at birth, total (years)`, obs_value, color = Continent, size = obs_value) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  facet_wrap(~ time_period) +
+  labs(
+    x = "Life Expectancy in Years", 
+    y = "% Change in Annual Growth of Urban Pop", 
+    fill = "Continent",
+    title = "Relationship Between % Change in Annual Growth of Urban Population 
+    and Life Expectancy in 2000",
+    subtitle = "N/A values for continent filtered out"
+  )+
+  guides(size="none") +
+  theme_classic() +
+  theme(text = element_text(family = "serif")) +
+  scale_x_continuous(
+    limits = c(40, 90),
+    breaks = seq(40, 90, by = 10) 
+  )
+```
+
+As we transition to 2020, a notable shift in the dynamics becomes apparent. Overall, there is an increase in life expectancy across continents, signaling potential advancements in healthcare systems and public health interventions globally. This improvement in life expectancy suggests progress in addressing health challenges and enhancing healthcare services, leading to longer and healthier lives for populations worldwide.
+
+```{r}
+data_join_2020 <- data_join_2020 %>%
+  filter(!is.na(Continent))
+  
+ggplot(data_join_2020) +
+  aes(x = `Life expectancy at birth, total (years)`, y = obs_value, color = Continent, size = obs_value) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  facet_wrap(~ time_period) +
+  labs(
+    x = "Life Expectancy in Years", 
+    y = "% Change in Annual Growth of Urban Pop", 
+    fill = "Continent",
+    title = "Relationship Between % Change in Annual Growth of Urban Population 
+    and Life Expectancy in 2020",
+    subtitle = "N/A values for continent filtered out"
+  )+
+  guides(size="none") +
+  theme_classic() +
+  theme(text = element_text(family = "serif")) +
+  scale_x_continuous(
+    limits = c(40, 90),
+    breaks = seq(40, 90, by = 10) 
+  )
+```
+
+## Conclusion
+
+As our exploration concludes, we deeply appreciate the interconnectedness of our world. **"Urban Evolution"** sheds light on forces shaping societies. Data shows Africa's pronounced urbanisation trend due to population and economic factors. While global urban growth rates decline, Asia, Africa and North America maintain high rates. With these insights, we journey towards a sustainable, equitable future where cities thrive and economies prosper in harmony.
+
+
+
+
+```{r}
+
+```
+
