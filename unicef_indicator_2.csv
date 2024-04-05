@@ -1,0 +1,475 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Annual growth rate of urban population,2000,4.07022611533563,Total,Units,%,Estimated value,,,Total
+Afghanistan,AF,AFG,4,Annual growth rate of urban population,2020,3.49159299206798,Total,Units,%,Estimated value,,,Total
+Albania,AL,ALB,8,Annual growth rate of urban population,2000,1.39596342008939,Total,Units,%,Estimated value,,,Total
+Albania,AL,ALB,8,Annual growth rate of urban population,2020,0.771287628258531,Total,Units,%,Estimated value,,,Total
+Algeria,DZ,DZA,12,Annual growth rate of urban population,2000,2.63055070056426,Total,Units,%,Estimated value,,,Total
+Algeria,DZ,DZA,12,Annual growth rate of urban population,2020,1.78463368014013,Total,Units,%,Estimated value,,,Total
+American Samoa,AS,ASM,16,Annual growth rate of urban population,2000,-1.18081118987793,Total,Units,%,Estimated value,,,Total
+American Samoa,AS,ASM,16,Annual growth rate of urban population,2020,-0.984593140286561,Total,Units,%,Estimated value,,,Total
+Andorra,AD,AND,20,Annual growth rate of urban population,2000,0.533491815425963,Total,Units,%,Estimated value,,,Total
+Andorra,AD,AND,20,Annual growth rate of urban population,2020,0.426488612754212,Total,Units,%,Estimated value,,,Total
+Angola,AO,AGO,24,Annual growth rate of urban population,2000,4.76573801567419,Total,Units,%,Estimated value,,,Total
+Angola,AO,AGO,24,Annual growth rate of urban population,2020,3.43120644496726,Total,Units,%,Estimated value,,,Total
+Anguilla,AI,AIA,660,Annual growth rate of urban population,2000,1.63859407236449,Total,Units,%,Estimated value,,,Total
+Anguilla,AI,AIA,660,Annual growth rate of urban population,2020,0.270103766565242,Total,Units,%,Estimated value,,,Total
+Antigua and Barbuda,AG,ATG,28,Annual growth rate of urban population,2000,-0.300015480963376,Total,Units,%,Estimated value,,,Total
+Antigua and Barbuda,AG,ATG,28,Annual growth rate of urban population,2020,0.594177580322086,Total,Units,%,Estimated value,,,Total
+Argentina,AR,ARG,32,Annual growth rate of urban population,2000,1.08284650119759,Total,Units,%,Estimated value,,,Total
+Argentina,AR,ARG,32,Annual growth rate of urban population,2020,0.629981036749377,Total,Units,%,Estimated value,,,Total
+Armenia,AM,ARM,51,Annual growth rate of urban population,2000,-0.679953041760908,Total,Units,%,Estimated value,,,Total
+Armenia,AM,ARM,51,Annual growth rate of urban population,2020,0.164830924358559,Total,Units,%,Estimated value,,,Total
+Aruba,AW,ABW,533,Annual growth rate of urban population,2000,0.534946979781637,Total,Units,%,Estimated value,,,Total
+Aruba,AW,ABW,533,Annual growth rate of urban population,2020,0.354129659130968,Total,Units,%,Estimated value,,,Total
+Australia,AU,AUS,36,Annual growth rate of urban population,2000,1.54036285414583,Total,Units,%,Estimated value,,,Total
+Australia,AU,AUS,36,Annual growth rate of urban population,2020,0.999822117056978,Total,Units,%,Estimated value,,,Total
+Austria,AT,AUT,40,Annual growth rate of urban population,2000,0.388329972240195,Total,Units,%,Estimated value,,,Total
+Austria,AT,AUT,40,Annual growth rate of urban population,2020,0.613575425481635,Total,Units,%,Estimated value,,,Total
+Azerbaijan,AZ,AZE,31,Annual growth rate of urban population,2000,1.52750913283016,Total,Units,%,Estimated value,,,Total
+Azerbaijan,AZ,AZE,31,Annual growth rate of urban population,2020,1.04937083118149,Total,Units,%,Estimated value,,,Total
+Bahamas,BS,BHS,44,Annual growth rate of urban population,2000,1.13632864298199,Total,Units,%,Estimated value,,,Total
+Bahamas,BS,BHS,44,Annual growth rate of urban population,2020,0.6681857306439,Total,Units,%,Estimated value,,,Total
+Bahrain,BH,BHR,48,Annual growth rate of urban population,2000,3.54067788636458,Total,Units,%,Estimated value,,,Total
+Bahrain,BH,BHR,48,Annual growth rate of urban population,2020,0.712571811512498,Total,Units,%,Estimated value,,,Total
+Bangladesh,BD,BGD,50,Annual growth rate of urban population,2000,3.52672241793786,Total,Units,%,Estimated value,,,Total
+Bangladesh,BD,BGD,50,Annual growth rate of urban population,2020,2.50133402476615,Total,Units,%,Estimated value,,,Total
+Barbados,BB,BRB,52,Annual growth rate of urban population,2000,-0.106203862335447,Total,Units,%,Estimated value,,,Total
+Barbados,BB,BRB,52,Annual growth rate of urban population,2020,0.526529066032638,Total,Units,%,Estimated value,,,Total
+Belarus,BY,BLR,112,Annual growth rate of urban population,2000,0.308549220232369,Total,Units,%,Estimated value,,,Total
+Belarus,BY,BLR,112,Annual growth rate of urban population,2020,0.0109778292081551,Total,Units,%,Estimated value,,,Total
+Belgium,BE,BEL,56,Annual growth rate of urban population,2000,0.613126795539653,Total,Units,%,Estimated value,,,Total
+Belgium,BE,BEL,56,Annual growth rate of urban population,2020,0.273058500078949,Total,Units,%,Estimated value,,,Total
+Belize,BZ,BLZ,84,Annual growth rate of urban population,2000,2.42891425702393,Total,Units,%,Estimated value,,,Total
+Belize,BZ,BLZ,84,Annual growth rate of urban population,2020,1.68824302552576,Total,Units,%,Estimated value,,,Total
+Benin,BJ,BEN,204,Annual growth rate of urban population,2000,3.92849661643323,Total,Units,%,Estimated value,,,Total
+Benin,BJ,BEN,204,Annual growth rate of urban population,2020,3.37743717931642,Total,Units,%,Estimated value,,,Total
+Bermuda,BM,BMU,60,Annual growth rate of urban population,2000,0.20201010221473,Total,Units,%,Estimated value,,,Total
+Bermuda,BM,BMU,60,Annual growth rate of urban population,2020,-0.175535654801733,Total,Units,%,Estimated value,,,Total
+Bhutan,BT,BTN,64,Annual growth rate of urban population,2000,3.73319075326905,Total,Units,%,Estimated value,,,Total
+Bhutan,BT,BTN,64,Annual growth rate of urban population,2020,1.81452852293078,Total,Units,%,Estimated value,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Annual growth rate of urban population,2000,2.16772660666014,Total,Units,%,Estimated value,,,Total
+Bolivia,BO,BOL,68,Annual growth rate of urban population,2000,2.16772660666014,Total,Units,%,Estimated value,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Annual growth rate of urban population,2020,1.65825296744739,Total,Units,%,Estimated value,,,Total
+Bolivia,BO,BOL,68,Annual growth rate of urban population,2020,1.65825296744739,Total,Units,%,Estimated value,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Annual growth rate of urban population,2000,-0.405777558602089,Total,Units,%,Estimated value,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Annual growth rate of urban population,2020,0.222487587072277,Total,Units,%,Estimated value,,,Total
+Botswana,BW,BWA,72,Annual growth rate of urban population,2000,3.21350030135862,Total,Units,%,Estimated value,,,Total
+Botswana,BW,BWA,72,Annual growth rate of urban population,2020,2.13809092544578,Total,Units,%,Estimated value,,,Total
+Brazil,BR,BRA,76,Annual growth rate of urban population,2000,1.24941545918574,Total,Units,%,Estimated value,,,Total
+Brazil,BR,BRA,76,Annual growth rate of urban population,2020,0.673040675772493,Total,Units,%,Estimated value,,,Total
+"Virgin Islands, British",VG,VGB,92,Annual growth rate of urban population,2000,2.76087961394598,Total,Units,%,Estimated value,,,Total
+"Virgin Islands, British",VG,VGB,92,Annual growth rate of urban population,2020,1.360619986272,Total,Units,%,Estimated value,,,Total
+Brunei Darussalam,BN,BRN,96,Annual growth rate of urban population,2000,1.7842303070034,Total,Units,%,Estimated value,,,Total
+Brunei,BN,BRN,96,Annual growth rate of urban population,2000,1.7842303070034,Total,Units,%,Estimated value,,,Total
+Brunei Darussalam,BN,BRN,96,Annual growth rate of urban population,2020,0.95230938529424,Total,Units,%,Estimated value,,,Total
+Brunei,BN,BRN,96,Annual growth rate of urban population,2020,0.95230938529424,Total,Units,%,Estimated value,,,Total
+Bulgaria,BG,BGR,100,Annual growth rate of urban population,2000,-0.260461138546617,Total,Units,%,Estimated value,,,Total
+Bulgaria,BG,BGR,100,Annual growth rate of urban population,2020,-0.552013735585511,Total,Units,%,Estimated value,,,Total
+Burkina Faso,BF,BFA,854,Annual growth rate of urban population,2000,5.39793712161075,Total,Units,%,Estimated value,,,Total
+Burkina Faso,BF,BFA,854,Annual growth rate of urban population,2020,3.98845618084109,Total,Units,%,Estimated value,,,Total
+Burundi,BI,BDI,108,Annual growth rate of urban population,2000,5.56942461865651,Total,Units,%,Estimated value,,,Total
+Burundi,BI,BDI,108,Annual growth rate of urban population,2020,4.60687863841124,Total,Units,%,Estimated value,,,Total
+Cape Verde,CV,CPV,132,Annual growth rate of urban population,2000,2.1960548698895,Total,Units,%,Estimated value,,,Total
+Cape Verde,CV,CPV,132,Annual growth rate of urban population,2020,1.39252523542094,Total,Units,%,Estimated value,,,Total
+Cambodia,KH,KHM,116,Annual growth rate of urban population,2000,2.70282856743613,Total,Units,%,Estimated value,,,Total
+Cambodia,KH,KHM,116,Annual growth rate of urban population,2020,2.53404413824263,Total,Units,%,Estimated value,,,Total
+Cameroon,CM,CMR,120,Annual growth rate of urban population,2000,3.79458709348393,Total,Units,%,Estimated value,,,Total
+Cameroon,CM,CMR,120,Annual growth rate of urban population,2020,3.13813498528211,Total,Units,%,Estimated value,,,Total
+Canada,CA,CAN,124,Annual growth rate of urban population,2000,1.12770152360634,Total,Units,%,Estimated value,,,Total
+Canada,CA,CAN,124,Annual growth rate of urban population,2020,0.864862149258023,Total,Units,%,Estimated value,,,Total
+Cayman Islands,KY,CYM,136,Annual growth rate of urban population,2000,2.51909972103799,Total,Units,%,Estimated value,,,Total
+Cayman Islands,KY,CYM,136,Annual growth rate of urban population,2020,0.720775542229664,Total,Units,%,Estimated value,,,Total
+Central African Republic,CF,CAF,140,Annual growth rate of urban population,2000,2.2186901309613,Total,Units,%,Estimated value,,,Total
+Central African Republic,CF,CAF,140,Annual growth rate of urban population,2020,3.6939211162624,Total,Units,%,Estimated value,,,Total
+Chad,TD,TCD,148,Annual growth rate of urban population,2000,3.73437212248745,Total,Units,%,Estimated value,,,Total
+Chad,TD,TCD,148,Annual growth rate of urban population,2020,4.01792041903202,Total,Units,%,Estimated value,,,Total
+Chile,CL,CHL,152,Annual growth rate of urban population,2000,1.18058430545017,Total,Units,%,Estimated value,,,Total
+Chile,CL,CHL,152,Annual growth rate of urban population,2020,0.408089637877653,Total,Units,%,Estimated value,,,Total
+China,CN,CHN,156,Annual growth rate of urban population,2000,3.13110572189137,Total,Units,%,Estimated value,,,Total
+China,CN,CHN,156,Annual growth rate of urban population,2020,1.2087972417224,Total,Units,%,Estimated value,,,Total
+Hong Kong,HK,HKG,344,Annual growth rate of urban population,2000,0.515609466742837,Total,Units,%,Estimated value,,,Total
+Hong Kong,HK,HKG,344,Annual growth rate of urban population,2020,-0.0182833139603226,Total,Units,%,Estimated value,,,Total
+Macao,MO,MAC,446,Annual growth rate of urban population,2000,2.1353712697974,Total,Units,%,Estimated value,,,Total
+Macao,MO,MAC,446,Annual growth rate of urban population,2020,1.10120476499617,Total,Units,%,Estimated value,,,Total
+"Taiwan, Province of China",TW,TWN,158,Annual growth rate of urban population,2000,0.918411473726931,Total,Units,%,Estimated value,,,Total
+Taiwan,TW,TWN,158,Annual growth rate of urban population,2000,0.918411473726931,Total,Units,%,Estimated value,,,Total
+"Taiwan, Province of China",TW,TWN,158,Annual growth rate of urban population,2020,0.468886861475578,Total,Units,%,Estimated value,,,Total
+Taiwan,TW,TWN,158,Annual growth rate of urban population,2020,0.468886861475578,Total,Units,%,Estimated value,,,Total
+Colombia,CO,COL,170,Annual growth rate of urban population,2000,1.70286130869189,Total,Units,%,Estimated value,,,Total
+Colombia,CO,COL,170,Annual growth rate of urban population,2020,0.871739754957891,Total,Units,%,Estimated value,,,Total
+Comoros,KM,COM,174,Annual growth rate of urban population,2000,2.15238027893818,Total,Units,%,Estimated value,,,Total
+Comoros,KM,COM,174,Annual growth rate of urban population,2020,2.50603891611757,Total,Units,%,Estimated value,,,Total
+Congo,CG,COG,178,Annual growth rate of urban population,2000,3.53887179568411,Total,Units,%,Estimated value,,,Total
+Congo,CG,COG,178,Annual growth rate of urban population,2020,2.59012302177113,Total,Units,%,Estimated value,,,Total
+Cook Islands,CK,COK,184,Annual growth rate of urban population,2000,1.02620478599586,Total,Units,%,Estimated value,,,Total
+Cook Islands,CK,COK,184,Annual growth rate of urban population,2020,0.397648299024256,Total,Units,%,Estimated value,,,Total
+Costa Rica,CR,CRI,188,Annual growth rate of urban population,2000,2.69467318964856,Total,Units,%,Estimated value,,,Total
+Costa Rica,CR,CRI,188,Annual growth rate of urban population,2020,1.08047874557737,Total,Units,%,Estimated value,,,Total
+Croatia,HR,HRV,191,Annual growth rate of urban population,2000,-0.143754967314239,Total,Units,%,Estimated value,,,Total
+Croatia,HR,HRV,191,Annual growth rate of urban population,2020,0.0315378248219451,Total,Units,%,Estimated value,,,Total
+Cuba,CU,CUB,192,Annual growth rate of urban population,2000,0.199685764215658,Total,Units,%,Estimated value,,,Total
+Cuba,CU,CUB,192,Annual growth rate of urban population,2020,-0.0560466436114612,Total,Units,%,Estimated value,,,Total
+Cyprus,CY,CYP,196,Annual growth rate of urban population,2000,1.13951808843965,Total,Units,%,Estimated value,,,Total
+Cyprus,CY,CYP,196,Annual growth rate of urban population,2020,0.697633267928697,Total,Units,%,Estimated value,,,Total
+Czech Republic,CZ,CZE,203,Annual growth rate of urban population,2000,0.140572135032464,Total,Units,%,Estimated value,,,Total
+Czech Republic,CZ,CZE,203,Annual growth rate of urban population,2020,0.230064923169012,Total,Units,%,Estimated value,,,Total
+Côte d'Ivoire,CI,CIV,384,Annual growth rate of urban population,2000,3.08694302241963,Total,Units,%,Estimated value,,,Total
+Ivory Coast,CI,CIV,384,Annual growth rate of urban population,2000,3.08694302241963,Total,Units,%,Estimated value,,,Total
+Côte d'Ivoire,CI,CIV,384,Annual growth rate of urban population,2020,3.05857080007596,Total,Units,%,Estimated value,,,Total
+Ivory Coast,CI,CIV,384,Annual growth rate of urban population,2020,3.05857080007596,Total,Units,%,Estimated value,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Annual growth rate of urban population,2000,0.716301321420663,Total,Units,%,Estimated value,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Annual growth rate of urban population,2020,0.694017083114398,Total,Units,%,Estimated value,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Annual growth rate of urban population,2000,4.32844353258135,Total,Units,%,Estimated value,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Annual growth rate of urban population,2020,4.03323570887398,Total,Units,%,Estimated value,,,Total
+Denmark,DK,DNK,208,Annual growth rate of urban population,2000,0.579751544609404,Total,Units,%,Estimated value,,,Total
+Denmark,DK,DNK,208,Annual growth rate of urban population,2020,0.561216270177514,Total,Units,%,Estimated value,,,Total
+Djibouti,DJ,DJI,262,Annual growth rate of urban population,2000,1.92608319152304,Total,Units,%,Estimated value,,,Total
+Djibouti,DJ,DJI,262,Annual growth rate of urban population,2020,1.44235437447279,Total,Units,%,Estimated value,,,Total
+Dominica,DM,DMA,212,Annual growth rate of urban population,2000,0.654749824591407,Total,Units,%,Estimated value,,,Total
+Dominica,DM,DMA,212,Annual growth rate of urban population,2020,0.754083552528112,Total,Units,%,Estimated value,,,Total
+Dominican Republic,DO,DOM,214,Annual growth rate of urban population,2000,2.58643554008209,Total,Units,%,Estimated value,,,Total
+Dominican Republic,DO,DOM,214,Annual growth rate of urban population,2020,1.33603904914217,Total,Units,%,Estimated value,,,Total
+Ecuador,EC,ECU,218,Annual growth rate of urban population,2000,1.87433490586225,Total,Units,%,Estimated value,,,Total
+Ecuador,EC,ECU,218,Annual growth rate of urban population,2020,1.28823206307793,Total,Units,%,Estimated value,,,Total
+Egypt,EG,EGY,818,Annual growth rate of urban population,2000,1.94734500604561,Total,Units,%,Estimated value,,,Total
+Egypt,EG,EGY,818,Annual growth rate of urban population,2020,1.79840720826925,Total,Units,%,Estimated value,,,Total
+El Salvador,SV,SLV,222,Annual growth rate of urban population,2000,1.30979910991736,Total,Units,%,Estimated value,,,Total
+El Salvador,SV,SLV,222,Annual growth rate of urban population,2020,1.05067315305624,Total,Units,%,Estimated value,,,Total
+Equatorial Guinea,GQ,GNQ,226,Annual growth rate of urban population,2000,5.92396753801667,Total,Units,%,Estimated value,,,Total
+Equatorial Guinea,GQ,GNQ,226,Annual growth rate of urban population,2020,2.54651854818642,Total,Units,%,Estimated value,,,Total
+Eritrea,ER,ERI,232,Annual growth rate of urban population,2000,3.98894874797365,Total,Units,%,Estimated value,,,Total
+Eritrea,ER,ERI,232,Annual growth rate of urban population,2020,3.00791008921465,Total,Units,%,Estimated value,,,Total
+Estonia,EE,EST,233,Annual growth rate of urban population,2000,-0.245160376301197,Total,Units,%,Estimated value,,,Total
+Estonia,EE,EST,233,Annual growth rate of urban population,2020,0.00563704705796479,Total,Units,%,Estimated value,,,Total
+Swaziland,SZ,SWZ,748,Annual growth rate of urban population,2000,0.949686750542879,Total,Units,%,Estimated value,,,Total
+Swaziland,SZ,SWZ,748,Annual growth rate of urban population,2020,1.76544749938567,Total,Units,%,Estimated value,,,Total
+Ethiopia,ET,ETH,231,Annual growth rate of urban population,2000,4.50072911804322,Total,Units,%,Estimated value,,,Total
+Ethiopia,ET,ETH,231,Annual growth rate of urban population,2020,4.14124147143389,Total,Units,%,Estimated value,,,Total
+Falkland Islands (Malvinas),FK,FLK,238,Annual growth rate of urban population,2000,1.6447441321615,Total,Units,%,Estimated value,,,Total
+Falkland Islands (Malvinas),FK,FLK,238,Annual growth rate of urban population,2020,0.689490268191745,Total,Units,%,Estimated value,,,Total
+Faroe Islands,FO,FRO,234,Annual growth rate of urban population,2000,1.39164668942963,Total,Units,%,Estimated value,,,Total
+Faroe Islands,FO,FRO,234,Annual growth rate of urban population,2020,0.8633340908423,Total,Units,%,Estimated value,,,Total
+Fiji,FJ,FJI,242,Annual growth rate of urban population,2000,1.32610267972965,Total,Units,%,Estimated value,,,Total
+Fiji,FJ,FJI,242,Annual growth rate of urban population,2020,1.34720901141545,Total,Units,%,Estimated value,,,Total
+Finland,FI,FIN,246,Annual growth rate of urban population,2000,0.503739961367576,Total,Units,%,Estimated value,,,Total
+Finland,FI,FIN,246,Annual growth rate of urban population,2020,0.173202378476187,Total,Units,%,Estimated value,,,Total
+France,FR,FRA,250,Annual growth rate of urban population,2000,0.760051604077733,Total,Units,%,Estimated value,,,Total
+France,FR,FRA,250,Annual growth rate of urban population,2020,0.443406148586292,Total,Units,%,Estimated value,,,Total
+French Guiana,GF,GUF,254,Annual growth rate of urban population,2000,3.10767225587087,Total,Units,%,Estimated value,,,Total
+French Guiana,GF,GUF,254,Annual growth rate of urban population,2020,2.32372411355662,Total,Units,%,Estimated value,,,Total
+French Polynesia,PF,PYF,258,Annual growth rate of urban population,2000,1.3597086611855,Total,Units,%,Estimated value,,,Total
+French Polynesia,PF,PYF,258,Annual growth rate of urban population,2020,0.884890703175036,Total,Units,%,Estimated value,,,Total
+Gabon,GA,GAB,266,Annual growth rate of urban population,2000,3.43460114441005,Total,Units,%,Estimated value,,,Total
+Gabon,GA,GAB,266,Annual growth rate of urban population,2020,1.99037980152502,Total,Units,%,Estimated value,,,Total
+Gambia,GM,GMB,270,Annual growth rate of urban population,2000,4.05027150964345,Total,Units,%,Estimated value,,,Total
+Gambia,GM,GMB,270,Annual growth rate of urban population,2020,2.9786890369447,Total,Units,%,Estimated value,,,Total
+Georgia,GE,GEO,268,Annual growth rate of urban population,2000,-0.0130697777451082,Total,Units,%,Estimated value,,,Total
+Georgia,GE,GEO,268,Annual growth rate of urban population,2020,0.386066850569489,Total,Units,%,Estimated value,,,Total
+Germany,DE,DEU,276,Annual growth rate of urban population,2000,0.258140703528294,Total,Units,%,Estimated value,,,Total
+Germany,DE,DEU,276,Annual growth rate of urban population,2020,0.109849593216378,Total,Units,%,Estimated value,,,Total
+Ghana,GH,GHA,288,Annual growth rate of urban population,2000,3.61463046393079,Total,Units,%,Estimated value,,,Total
+Ghana,GH,GHA,288,Annual growth rate of urban population,2020,2.60537023316136,Total,Units,%,Estimated value,,,Total
+Gibraltar,GI,GIB,292,Annual growth rate of urban population,2000,0.784311885705253,Total,Units,%,Estimated value,,,Total
+Gibraltar,GI,GIB,292,Annual growth rate of urban population,2020,0.0173544999803639,Total,Units,%,Estimated value,,,Total
+Greece,GR,GRC,300,Annual growth rate of urban population,2000,0.205152964626412,Total,Units,%,Estimated value,,,Total
+Greece,GR,GRC,300,Annual growth rate of urban population,2020,-0.057907491370189,Total,Units,%,Estimated value,,,Total
+Greenland,GL,GRL,304,Annual growth rate of urban population,2000,0.307179848966156,Total,Units,%,Estimated value,,,Total
+Greenland,GL,GRL,304,Annual growth rate of urban population,2020,0.388403885085792,Total,Units,%,Estimated value,,,Total
+Grenada,GD,GRD,308,Annual growth rate of urban population,2000,0.780632455195109,Total,Units,%,Estimated value,,,Total
+Grenada,GD,GRD,308,Annual growth rate of urban population,2020,1.04287683289574,Total,Units,%,Estimated value,,,Total
+Guadeloupe,GP,GLP,312,Annual growth rate of urban population,2000,-0.325594899109788,Total,Units,%,Estimated value,,,Total
+Guadeloupe,GP,GLP,312,Annual growth rate of urban population,2020,0.108816524796155,Total,Units,%,Estimated value,,,Total
+Guam,GU,GUM,316,Annual growth rate of urban population,2000,0.353133616969106,Total,Units,%,Estimated value,,,Total
+Guam,GU,GUM,316,Annual growth rate of urban population,2020,0.667311604973781,Total,Units,%,Estimated value,,,Total
+Guatemala,GT,GTM,320,Annual growth rate of urban population,2000,2.5035475596917,Total,Units,%,Estimated value,,,Total
+Guatemala,GT,GTM,320,Annual growth rate of urban population,2020,2.05800752402832,Total,Units,%,Estimated value,,,Total
+Guinea,GN,GIN,324,Annual growth rate of urban population,2000,3.03661420836429,Total,Units,%,Estimated value,,,Total
+Guinea,GN,GIN,324,Annual growth rate of urban population,2020,3.14555608021818,Total,Units,%,Estimated value,,,Total
+Guinea-Bissau,GW,GNB,624,Annual growth rate of urban population,2000,3.29387562845929,Total,Units,%,Estimated value,,,Total
+Guinea-Bissau,GW,GNB,624,Annual growth rate of urban population,2020,2.7444543432869,Total,Units,%,Estimated value,,,Total
+Guyana,GY,GUY,328,Annual growth rate of urban population,2000,-0.0941407162341331,Total,Units,%,Estimated value,,,Total
+Guyana,GY,GUY,328,Annual growth rate of urban population,2020,1.14234987850821,Total,Units,%,Estimated value,,,Total
+Haiti,HT,HTI,332,Annual growth rate of urban population,2000,3.68651174094734,Total,Units,%,Estimated value,,,Total
+Haiti,HT,HTI,332,Annual growth rate of urban population,2020,2.22550939950015,Total,Units,%,Estimated value,,,Total
+Honduras,HN,HND,340,Annual growth rate of urban population,2000,3.18516667645077,Total,Units,%,Estimated value,,,Total
+Honduras,HN,HND,340,Annual growth rate of urban population,2020,2.21863262971923,Total,Units,%,Estimated value,,,Total
+Hungary,HU,HUN,348,Annual growth rate of urban population,2000,0.298903478538199,Total,Units,%,Estimated value,,,Total
+Hungary,HU,HUN,348,Annual growth rate of urban population,2020,0.294695477787618,Total,Units,%,Estimated value,,,Total
+Iceland,IS,ISL,352,Annual growth rate of urban population,2000,1.33587320008957,Total,Units,%,Estimated value,,,Total
+Iceland,IS,ISL,352,Annual growth rate of urban population,2020,0.620992020014869,Total,Units,%,Estimated value,,,Total
+India,IN,IND,356,Annual growth rate of urban population,2000,2.42360089774592,Total,Units,%,Estimated value,,,Total
+India,IN,IND,356,Annual growth rate of urban population,2020,2.00649894919647,Total,Units,%,Estimated value,,,Total
+Indonesia,ID,IDN,360,Annual growth rate of urban population,2000,2.56181550020839,Total,Units,%,Estimated value,,,Total
+Indonesia,ID,IDN,360,Annual growth rate of urban population,2020,1.59875064314026,Total,Units,%,Estimated value,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Annual growth rate of urban population,2000,2.17164550971403,Total,Units,%,Estimated value,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Annual growth rate of urban population,2020,1.06432277249207,Total,Units,%,Estimated value,,,Total
+Iraq,IQ,IRQ,368,Annual growth rate of urban population,2000,2.76819747585303,Total,Units,%,Estimated value,,,Total
+Iraq,IQ,IRQ,368,Annual growth rate of urban population,2020,2.29697215024782,Total,Units,%,Estimated value,,,Total
+Ireland,IE,IRL,372,Annual growth rate of urban population,2000,1.64329517551843,Total,Units,%,Estimated value,,,Total
+Ireland,IE,IRL,372,Annual growth rate of urban population,2020,1.00325313583522,Total,Units,%,Estimated value,,,Total
+Isle of Man,IM,IMN,833,Annual growth rate of urban population,2000,0.604458439760553,Total,Units,%,Estimated value,,,Total
+Isle of Man,IM,IMN,833,Annual growth rate of urban population,2020,0.607248063942147,Total,Units,%,Estimated value,,,Total
+Israel,IL,ISR,376,Annual growth rate of urban population,2000,1.7805014987722,Total,Units,%,Estimated value,,,Total
+Israel,IL,ISR,376,Annual growth rate of urban population,2020,1.41964277500973,Total,Units,%,Estimated value,,,Total
+Italy,IT,ITA,380,Annual growth rate of urban population,2000,0.470251932574866,Total,Units,%,Estimated value,,,Total
+Italy,IT,ITA,380,Annual growth rate of urban population,2020,0.100911424152048,Total,Units,%,Estimated value,,,Total
+Jamaica,JM,JAM,388,Annual growth rate of urban population,2000,0.761552992001804,Total,Units,%,Estimated value,,,Total
+Jamaica,JM,JAM,388,Annual growth rate of urban population,2020,0.577611588131945,Total,Units,%,Estimated value,,,Total
+Japan,JP,JPN,392,Annual growth rate of urban population,2000,0.676427146629441,Total,Units,%,Estimated value,,,Total
+Japan,JP,JPN,392,Annual growth rate of urban population,2020,-0.411242047172378,Total,Units,%,Estimated value,,,Total
+Jordan,JO,JOR,400,Annual growth rate of urban population,2000,4.40982007116786,Total,Units,%,Estimated value,,,Total
+Jordan,JO,JOR,400,Annual growth rate of urban population,2020,0.973748034876854,Total,Units,%,Estimated value,,,Total
+Kazakhstan,KZ,KAZ,398,Annual growth rate of urban population,2000,1.17772654034989,Total,Units,%,Estimated value,,,Total
+Kazakhstan,KZ,KAZ,398,Annual growth rate of urban population,2020,1.33867077353259,Total,Units,%,Estimated value,,,Total
+Kenya,KE,KEN,404,Annual growth rate of urban population,2000,4.1118556869079,Total,Units,%,Estimated value,,,Total
+Kenya,KE,KEN,404,Annual growth rate of urban population,2020,3.37410041947919,Total,Units,%,Estimated value,,,Total
+Kiribati,KI,KIR,296,Annual growth rate of urban population,2000,2.91015402680179,Total,Units,%,Estimated value,,,Total
+Kiribati,KI,KIR,296,Annual growth rate of urban population,2020,2.48990412600756,Total,Units,%,Estimated value,,,Total
+Kuwait,KW,KWT,414,Annual growth rate of urban population,2000,3.91699007983771,Total,Units,%,Estimated value,,,Total
+Kuwait,KW,KWT,414,Annual growth rate of urban population,2020,0.415912931656857,Total,Units,%,Estimated value,,,Total
+Kyrgyzstan,KG,KGZ,417,Annual growth rate of urban population,2000,1.4618075741869,Total,Units,%,Estimated value,,,Total
+Kyrgyzstan,KG,KGZ,417,Annual growth rate of urban population,2020,2.2730672016159,Total,Units,%,Estimated value,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Annual growth rate of urban population,2000,3.80941799147814,Total,Units,%,Estimated value,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Annual growth rate of urban population,2020,2.68553129087415,Total,Units,%,Estimated value,,,Total
+Latvia,LV,LVA,428,Annual growth rate of urban population,2000,-1.08768202193944,Total,Units,%,Estimated value,,,Total
+Latvia,LV,LVA,428,Annual growth rate of urban population,2020,-0.776163872765016,Total,Units,%,Estimated value,,,Total
+Lebanon,LB,LBN,422,Annual growth rate of urban population,2000,1.44753475026139,Total,Units,%,Estimated value,,,Total
+Lebanon,LB,LBN,422,Annual growth rate of urban population,2020,-1.49679562322561,Total,Units,%,Estimated value,,,Total
+Lesotho,LS,LSO,426,Annual growth rate of urban population,2000,2.45560350654052,Total,Units,%,Estimated value,,,Total
+Lesotho,LS,LSO,426,Annual growth rate of urban population,2020,2.38588275822434,Total,Units,%,Estimated value,,,Total
+Liberia,LR,LBR,430,Annual growth rate of urban population,2000,3.45242983139094,Total,Units,%,Estimated value,,,Total
+Liberia,LR,LBR,430,Annual growth rate of urban population,2020,2.78403572772556,Total,Units,%,Estimated value,,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Annual growth rate of urban population,2000,1.47665524653849,Total,Units,%,Estimated value,,,Total
+Libya,LY,LBY,434,Annual growth rate of urban population,2000,1.47665524653849,Total,Units,%,Estimated value,,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Annual growth rate of urban population,2020,1.28505970318471,Total,Units,%,Estimated value,,,Total
+Libya,LY,LBY,434,Annual growth rate of urban population,2020,1.28505970318471,Total,Units,%,Estimated value,,,Total
+Liechtenstein,LI,LIE,438,Annual growth rate of urban population,2000,0.531592790834709,Total,Units,%,Estimated value,,,Total
+Liechtenstein,LI,LIE,438,Annual growth rate of urban population,2020,1.17686117072972,Total,Units,%,Estimated value,,,Total
+Lithuania,LT,LTU,440,Annual growth rate of urban population,2000,-1.08714847325007,Total,Units,%,Estimated value,,,Total
+Lithuania,LT,LTU,440,Annual growth rate of urban population,2020,-0.544167923477893,Total,Units,%,Estimated value,,,Total
+Luxembourg,LU,LUX,442,Annual growth rate of urban population,2000,2.15240633051965,Total,Units,%,Estimated value,,,Total
+Luxembourg,LU,LUX,442,Annual growth rate of urban population,2020,1.0872327732786,Total,Units,%,Estimated value,,,Total
+Madagascar,MG,MDG,450,Annual growth rate of urban population,2000,4.31153337506342,Total,Units,%,Estimated value,,,Total
+Madagascar,MG,MDG,450,Annual growth rate of urban population,2020,3.56997048084666,Total,Units,%,Estimated value,,,Total
+Malawi,MW,MWI,454,Annual growth rate of urban population,2000,3.43747757221565,Total,Units,%,Estimated value,,,Total
+Malawi,MW,MWI,454,Annual growth rate of urban population,2020,3.94192213535608,Total,Units,%,Estimated value,,,Total
+Malaysia,MY,MYS,458,Annual growth rate of urban population,2000,2.80267104495985,Total,Units,%,Estimated value,,,Total
+Malaysia,MY,MYS,458,Annual growth rate of urban population,2020,1.43739277305733,Total,Units,%,Estimated value,,,Total
+Maldives,MV,MDV,462,Annual growth rate of urban population,2000,4.68186008918592,Total,Units,%,Estimated value,,,Total
+Maldives,MV,MDV,462,Annual growth rate of urban population,2020,0.898188510826767,Total,Units,%,Estimated value,,,Total
+Mali,ML,MLI,466,Annual growth rate of urban population,2000,5.10960145189552,Total,Units,%,Estimated value,,,Total
+Mali,ML,MLI,466,Annual growth rate of urban population,2020,4.14142902211526,Total,Units,%,Estimated value,,,Total
+Malta,MT,MLT,470,Annual growth rate of urban population,2000,1.3369922488381,Total,Units,%,Estimated value,,,Total
+Malta,MT,MLT,470,Annual growth rate of urban population,2020,0.544246034012451,Total,Units,%,Estimated value,,,Total
+Marshall Islands,MH,MHL,584,Annual growth rate of urban population,2000,-0.458566775396443,Total,Units,%,Estimated value,,,Total
+Marshall Islands,MH,MHL,584,Annual growth rate of urban population,2020,0.646618420418744,Total,Units,%,Estimated value,,,Total
+Martinique,MQ,MTQ,474,Annual growth rate of urban population,2000,-0.769196254809096,Total,Units,%,Estimated value,,,Total
+Martinique,MQ,MTQ,474,Annual growth rate of urban population,2020,-0.0998979233435831,Total,Units,%,Estimated value,,,Total
+Mauritania,MR,MRT,478,Annual growth rate of urban population,2000,4.21738339889866,Total,Units,%,Estimated value,,,Total
+Mauritania,MR,MRT,478,Annual growth rate of urban population,2020,3.48946029210065,Total,Units,%,Estimated value,,,Total
+Mauritius,MU,MUS,480,Annual growth rate of urban population,2000,0.092319983501801,Total,Units,%,Estimated value,,,Total
+Mauritius,MU,MUS,480,Annual growth rate of urban population,2020,0.292974101194445,Total,Units,%,Estimated value,,,Total
+Mayotte,YT,MYT,175,Annual growth rate of urban population,2000,2.90288960889539,Total,Units,%,Estimated value,,,Total
+Mayotte,YT,MYT,175,Annual growth rate of urban population,2020,2.61501925182221,Total,Units,%,Estimated value,,,Total
+Mexico,MX,MEX,484,Annual growth rate of urban population,2000,1.57114893348003,Total,Units,%,Estimated value,,,Total
+Mexico,MX,MEX,484,Annual growth rate of urban population,2020,0.902593557910146,Total,Units,%,Estimated value,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Annual growth rate of urban population,2000,0.143820799534677,Total,Units,%,Estimated value,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Annual growth rate of urban population,2020,1.57321923212868,Total,Units,%,Estimated value,,,Total
+Monaco,MC,MCO,492,Annual growth rate of urban population,2000,0.612521868120148,Total,Units,%,Estimated value,,,Total
+Monaco,MC,MCO,492,Annual growth rate of urban population,2020,-0.264812184347322,Total,Units,%,Estimated value,,,Total
+Mongolia,MN,MNG,496,Annual growth rate of urban population,2000,2.28313236384188,Total,Units,%,Estimated value,,,Total
+Mongolia,MN,MNG,496,Annual growth rate of urban population,2020,1.39964935501879,Total,Units,%,Estimated value,,,Total
+Montenegro,ME,MNE,499,Annual growth rate of urban population,2000,0.644738274005429,Total,Units,%,Estimated value,,,Total
+Montenegro,ME,MNE,499,Annual growth rate of urban population,2020,0.337525043856637,Total,Units,%,Estimated value,,,Total
+Montserrat,MS,MSR,500,Annual growth rate of urban population,2000,6.38906950947373,Total,Units,%,Estimated value,,,Total
+Montserrat,MS,MSR,500,Annual growth rate of urban population,2020,0.294742925165826,Total,Units,%,Estimated value,,,Total
+Morocco,MA,MAR,504,Annual growth rate of urban population,2000,2.02671481822209,Total,Units,%,Estimated value,,,Total
+Morocco,MA,MAR,504,Annual growth rate of urban population,2020,1.54409510089846,Total,Units,%,Estimated value,,,Total
+Mozambique,MZ,MOZ,508,Annual growth rate of urban population,2000,3.83113961584071,Total,Units,%,Estimated value,,,Total
+Mozambique,MZ,MOZ,508,Annual growth rate of urban population,2020,3.79332273925711,Total,Units,%,Estimated value,,,Total
+Myanmar,MM,MMR,104,Annual growth rate of urban population,2000,1.43549311280007,Total,Units,%,Estimated value,,,Total
+Burma,MM,MMR,104,Annual growth rate of urban population,2000,1.43549311280007,Total,Units,%,Estimated value,,,Total
+Myanmar,MM,MMR,104,Annual growth rate of urban population,2020,1.64660086675558,Total,Units,%,Estimated value,,,Total
+Burma,MM,MMR,104,Annual growth rate of urban population,2020,1.64660086675558,Total,Units,%,Estimated value,,,Total
+Namibia,,NAM,516,Annual growth rate of urban population,2000,3.75290178493201,Total,Units,%,Estimated value,,,Total
+Namibia,,NAM,516,Annual growth rate of urban population,2020,2.83034900024752,Total,Units,%,Estimated value,,,Total
+Nauru,NR,NRU,520,Annual growth rate of urban population,2000,0.815592369490111,Total,Units,%,Estimated value,,,Total
+Nauru,NR,NRU,520,Annual growth rate of urban population,2020,0.739067497554028,Total,Units,%,Estimated value,,,Total
+Nepal,NP,NPL,524,Annual growth rate of urban population,2000,2.89162649340032,Total,Units,%,Estimated value,,,Total
+Nepal,NP,NPL,524,Annual growth rate of urban population,2020,2.99953910231127,Total,Units,%,Estimated value,,,Total
+Netherlands,NL,NLD,528,Annual growth rate of urban population,2000,1.31143128862208,Total,Units,%,Estimated value,,,Total
+Netherlands,NL,NLD,528,Annual growth rate of urban population,2020,0.50629435436827,Total,Units,%,Estimated value,,,Total
+New Caledonia,NC,NCL,540,Annual growth rate of urban population,2000,1.90920180216986,Total,Units,%,Estimated value,,,Total
+New Caledonia,NC,NCL,540,Annual growth rate of urban population,2020,1.26076209416475,Total,Units,%,Estimated value,,,Total
+New Zealand,NZ,NZL,554,Annual growth rate of urban population,2000,1.33333981591184,Total,Units,%,Estimated value,,,Total
+New Zealand,NZ,NZL,554,Annual growth rate of urban population,2020,0.867161310452758,Total,Units,%,Estimated value,,,Total
+Nicaragua,NI,NIC,558,Annual growth rate of urban population,2000,1.63657872060484,Total,Units,%,Estimated value,,,Total
+Nicaragua,NI,NIC,558,Annual growth rate of urban population,2020,1.66328093082067,Total,Units,%,Estimated value,,,Total
+Niger,NE,NER,562,Annual growth rate of urban population,2000,3.64630326880794,Total,Units,%,Estimated value,,,Total
+Niger,NE,NER,562,Annual growth rate of urban population,2020,4.42713031161321,Total,Units,%,Estimated value,,,Total
+Nigeria,NG,NGA,566,Annual growth rate of urban population,2000,4.41809621738385,Total,Units,%,Estimated value,,,Total
+Nigeria,NG,NGA,566,Annual growth rate of urban population,2020,3.28860483185123,Total,Units,%,Estimated value,,,Total
+Niue,NU,NIU,570,Annual growth rate of urban population,2000,1.28173620047655,Total,Units,%,Estimated value,,,Total
+Niue,NU,NIU,570,Annual growth rate of urban population,2020,1.18144928192857,Total,Units,%,Estimated value,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Annual growth rate of urban population,2000,0.162525889681868,Total,Units,%,Estimated value,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Annual growth rate of urban population,2020,0.471505601421818,Total,Units,%,Estimated value,,,Total
+Northern Mariana Islands,MP,MNP,580,Annual growth rate of urban population,2000,-2.21160458378988,Total,Units,%,Estimated value,,,Total
+Northern Mariana Islands,MP,MNP,580,Annual growth rate of urban population,2020,0.381465627814196,Total,Units,%,Estimated value,,,Total
+Norway,NO,NOR,578,Annual growth rate of urban population,2000,1.27651918863305,Total,Units,%,Estimated value,,,Total
+Norway,NO,NOR,578,Annual growth rate of urban population,2020,0.936792969589405,Total,Units,%,Estimated value,,,Total
+Oman,OM,OMN,512,Annual growth rate of urban population,2000,4.04094155432575,Total,Units,%,Estimated value,,,Total
+Oman,OM,OMN,512,Annual growth rate of urban population,2020,1.5917692396022,Total,Units,%,Estimated value,,,Total
+Pakistan,PK,PAK,586,Annual growth rate of urban population,2000,2.40890484663286,Total,Units,%,Estimated value,,,Total
+Pakistan,PK,PAK,586,Annual growth rate of urban population,2020,2.52536148746127,Total,Units,%,Estimated value,,,Total
+Palau,PW,PLW,585,Annual growth rate of urban population,2000,0.228055135649092,Total,Units,%,Estimated value,,,Total
+Palau,PW,PLW,585,Annual growth rate of urban population,2020,0.41729660535467,Total,Units,%,Estimated value,,,Total
+Panama,PA,PAN,591,Annual growth rate of urban population,2000,2.1589351507703,Total,Units,%,Estimated value,,,Total
+Panama,PA,PAN,591,Annual growth rate of urban population,2020,1.62506350435641,Total,Units,%,Estimated value,,,Total
+Papua New Guinea,PG,PNG,598,Annual growth rate of urban population,2000,2.76950827792013,Total,Units,%,Estimated value,,,Total
+Papua New Guinea,PG,PNG,598,Annual growth rate of urban population,2020,2.76600948182224,Total,Units,%,Estimated value,,,Total
+Paraguay,PY,PRY,600,Annual growth rate of urban population,2000,1.77498324537562,Total,Units,%,Estimated value,,,Total
+Paraguay,PY,PRY,600,Annual growth rate of urban population,2020,1.54602286270939,Total,Units,%,Estimated value,,,Total
+Peru,PE,PER,604,Annual growth rate of urban population,2000,1.3915198865909,Total,Units,%,Estimated value,,,Total
+Peru,PE,PER,604,Annual growth rate of urban population,2020,1.13953774664821,Total,Units,%,Estimated value,,,Total
+Philippines,PH,PHL,608,Annual growth rate of urban population,2000,1.86308856268799,Total,Units,%,Estimated value,,,Total
+Philippines,PH,PHL,608,Annual growth rate of urban population,2020,1.95146472284466,Total,Units,%,Estimated value,,,Total
+Poland,PL,POL,616,Annual growth rate of urban population,2000,-0.140284153032212,Total,Units,%,Estimated value,,,Total
+Poland,PL,POL,616,Annual growth rate of urban population,2020,0.287883955479938,Total,Units,%,Estimated value,,,Total
+Portugal,PT,PRT,620,Annual growth rate of urban population,2000,0.941707713279192,Total,Units,%,Estimated value,,,Total
+Portugal,PT,PRT,620,Annual growth rate of urban population,2020,0.457242653834884,Total,Units,%,Estimated value,,,Total
+Puerto Rico,PR,PRI,630,Annual growth rate of urban population,2000,-0.787701079759339,Total,Units,%,Estimated value,,,Total
+Puerto Rico,PR,PRI,630,Annual growth rate of urban population,2020,0.00512934783717432,Total,Units,%,Estimated value,,,Total
+Qatar,QA,QAT,634,Annual growth rate of urban population,2000,7.05872239008138,Total,Units,%,Estimated value,,,Total
+Qatar,QA,QAT,634,Annual growth rate of urban population,2020,0.334472976908487,Total,Units,%,Estimated value,,,Total
+"Korea, Republic of",KR,KOR,410,Annual growth rate of urban population,2000,0.594678611250216,Total,Units,%,Estimated value,,,Total
+South Korea,KR,KOR,410,Annual growth rate of urban population,2000,0.594678611250216,Total,Units,%,Estimated value,,,Total
+"Korea, Republic of",KR,KOR,410,Annual growth rate of urban population,2020,-0.0271197559064677,Total,Units,%,Estimated value,,,Total
+South Korea,KR,KOR,410,Annual growth rate of urban population,2020,-0.0271197559064677,Total,Units,%,Estimated value,,,Total
+"Moldova, Republic of",MD,MDA,498,Annual growth rate of urban population,2000,-1.71710407180541,Total,Units,%,Estimated value,,,Total
+"Moldova, Republic of",MD,MDA,498,Annual growth rate of urban population,2020,0.807014357006578,Total,Units,%,Estimated value,,,Total
+Romania,RO,ROU,642,Annual growth rate of urban population,2000,-0.465492164217206,Total,Units,%,Estimated value,,,Total
+Romania,RO,ROU,642,Annual growth rate of urban population,2020,0.201817793258453,Total,Units,%,Estimated value,,,Total
+Russian Federation,RU,RUS,643,Annual growth rate of urban population,2000,0.0503135654201949,Total,Units,%,Estimated value,,,Total
+Russia,RU,RUS,643,Annual growth rate of urban population,2000,0.0503135654201949,Total,Units,%,Estimated value,,,Total
+Russian Federation,RU,RUS,643,Annual growth rate of urban population,2020,0.0139558740346267,Total,Units,%,Estimated value,,,Total
+Russia,RU,RUS,643,Annual growth rate of urban population,2020,0.0139558740346267,Total,Units,%,Estimated value,,,Total
+Rwanda,RW,RWA,646,Annual growth rate of urban population,2000,3.03929293872161,Total,Units,%,Estimated value,,,Total
+Rwanda,RW,RWA,646,Annual growth rate of urban population,2020,3.07131483125172,Total,Units,%,Estimated value,,,Total
+Réunion,RE,REU,638,Annual growth rate of urban population,2000,1.36894386325173,Total,Units,%,Estimated value,,,Total
+Réunion,RE,REU,638,Annual growth rate of urban population,2020,0.694211207175437,Total,Units,%,Estimated value,,,Total
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,654,Annual growth rate of urban population,2000,-0.536581635132032,Total,Units,%,Estimated value,,,Total
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,654,Annual growth rate of urban population,2020,-0.351838378485395,Total,Units,%,Estimated value,,,Total
+Saint Kitts and Nevis,KN,KNA,659,Annual growth rate of urban population,2000,-0.0665587330253616,Total,Units,%,Estimated value,,,Total
+Saint Kitts and Nevis,KN,KNA,659,Annual growth rate of urban population,2020,0.566824886394196,Total,Units,%,Estimated value,,,Total
+Saint Lucia,LC,LCA,662,Annual growth rate of urban population,2000,-1.29239402081073,Total,Units,%,Estimated value,,,Total
+Saint Lucia,LC,LCA,662,Annual growth rate of urban population,2020,0.909176615649777,Total,Units,%,Estimated value,,,Total
+Saint Pierre and Miquelon,PM,SPM,666,Annual growth rate of urban population,2000,-0.244522029494758,Total,Units,%,Estimated value,,,Total
+Saint Pierre and Miquelon,PM,SPM,666,Annual growth rate of urban population,2020,-0.343653237330184,Total,Units,%,Estimated value,,,Total
+Saint Vincent and the Grenadines,VC,VCT,670,Annual growth rate of urban population,2000,0.361952637772522,Total,Units,%,Estimated value,,,Total
+Saint Vincent & the Grenadines,VC,VCT,670,Annual growth rate of urban population,2000,0.361952637772522,Total,Units,%,Estimated value,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Annual growth rate of urban population,2000,0.361952637772522,Total,Units,%,Estimated value,,,Total
+Saint Vincent and the Grenadines,VC,VCT,670,Annual growth rate of urban population,2020,0.675511030465374,Total,Units,%,Estimated value,,,Total
+Saint Vincent & the Grenadines,VC,VCT,670,Annual growth rate of urban population,2020,0.675511030465374,Total,Units,%,Estimated value,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Annual growth rate of urban population,2020,0.675511030465374,Total,Units,%,Estimated value,,,Total
+Samoa,WS,WSM,882,Annual growth rate of urban population,2000,-0.240379146104895,Total,Units,%,Estimated value,,,Total
+Samoa,WS,WSM,882,Annual growth rate of urban population,2020,1.01338495859628,Total,Units,%,Estimated value,,,Total
+San Marino,SM,SMR,674,Annual growth rate of urban population,2000,1.33260905100241,Total,Units,%,Estimated value,,,Total
+San Marino,SM,SMR,674,Annual growth rate of urban population,2020,-0.0665953975581691,Total,Units,%,Estimated value,,,Total
+Sao Tome and Principe,ST,STP,678,Annual growth rate of urban population,2000,3.57231794666415,Total,Units,%,Estimated value,,,Total
+Sao Tome and Principe,ST,STP,678,Annual growth rate of urban population,2020,2.41837952345511,Total,Units,%,Estimated value,,,Total
+Saudi Arabia,SA,SAU,682,Annual growth rate of urban population,2000,2.70136524993256,Total,Units,%,Estimated value,,,Total
+Saudi Arabia,SA,SAU,682,Annual growth rate of urban population,2020,1.29641990124633,Total,Units,%,Estimated value,,,Total
+Senegal,SN,SEN,686,Annual growth rate of urban population,2000,3.3514546960325,Total,Units,%,Estimated value,,,Total
+Senegal,SN,SEN,686,Annual growth rate of urban population,2020,3.20028422832578,Total,Units,%,Estimated value,,,Total
+Serbia,RS,SRB,688,Annual growth rate of urban population,2000,-0.0387467923761273,Total,Units,%,Estimated value,,,Total
+Serbia,RS,SRB,688,Annual growth rate of urban population,2020,-0.228292957789399,Total,Units,%,Estimated value,,,Total
+Seychelles,SC,SYC,690,Annual growth rate of urban population,2000,1.94360868749242,Total,Units,%,Estimated value,,,Total
+Seychelles,SC,SYC,690,Annual growth rate of urban population,2020,1.12559169883835,Total,Units,%,Estimated value,,,Total
+Sierra Leone,SL,SLE,694,Annual growth rate of urban population,2000,3.6762564271769,Total,Units,%,Estimated value,,,Total
+Sierra Leone,SL,SLE,694,Annual growth rate of urban population,2020,2.84930019030694,Total,Units,%,Estimated value,,,Total
+Singapore,SG,SGP,702,Annual growth rate of urban population,2000,1.79532265733726,Total,Units,%,Estimated value,,,Total
+Singapore,SG,SGP,702,Annual growth rate of urban population,2020,0.511596938555342,Total,Units,%,Estimated value,,,Total
+Slovakia,SK,SVK,703,Annual growth rate of urban population,2000,-0.14383947303481,Total,Units,%,Estimated value,,,Total
+Slovakia,SK,SVK,703,Annual growth rate of urban population,2020,0.474846319097615,Total,Units,%,Estimated value,,,Total
+Slovenia,SI,SVN,705,Annual growth rate of urban population,2000,0.702394195759732,Total,Units,%,Estimated value,,,Total
+Slovenia,SI,SVN,705,Annual growth rate of urban population,2020,0.539221566463966,Total,Units,%,Estimated value,,,Total
+Solomon Islands,SB,SLB,90,Annual growth rate of urban population,2000,4.37826576069024,Total,Units,%,Estimated value,,,Total
+Solomon Islands,SB,SLB,90,Annual growth rate of urban population,2020,3.45329639461654,Total,Units,%,Estimated value,,,Total
+Somalia,SO,SOM,706,Annual growth rate of urban population,2000,4.60738757988039,Total,Units,%,Estimated value,,,Total
+Somalia,SO,SOM,706,Annual growth rate of urban population,2020,3.83680251492355,Total,Units,%,Estimated value,,,Total
+South Africa,ZA,ZAF,710,Annual growth rate of urban population,2000,1.88968162048778,Total,Units,%,Estimated value,,,Total
+South Africa,ZA,ZAF,710,Annual growth rate of urban population,2020,1.47784713967755,Total,Units,%,Estimated value,,,Total
+South Sudan,SS,SSD,728,Annual growth rate of urban population,2000,3.58484921569084,Total,Units,%,Estimated value,,,Total
+South Sudan,SS,SSD,728,Annual growth rate of urban population,2020,3.16152676606806,Total,Units,%,Estimated value,,,Total
+Spain,ES,ESP,724,Annual growth rate of urban population,2000,0.993016019973843,Total,Units,%,Estimated value,,,Total
+Spain,ES,ESP,724,Annual growth rate of urban population,2020,0.222009057172007,Total,Units,%,Estimated value,,,Total
+Sri Lanka,LK,LKA,144,Annual growth rate of urban population,2000,0.777919342815784,Total,Units,%,Estimated value,,,Total
+Sri Lanka,LK,LKA,144,Annual growth rate of urban population,2020,1.28037902564673,Total,Units,%,Estimated value,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Annual growth rate of urban population,2000,2.53817446633173,Total,Units,%,Estimated value,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Annual growth rate of urban population,2020,2.3508188886801,Total,Units,%,Estimated value,,,Total
+Sudan,SD,SDN,736,Annual growth rate of urban population,2000,2.88615722559928,Total,Units,%,Estimated value,,,Total
+Sudan,SD,SDN,736,Annual growth rate of urban population,2020,3.3434177686561,Total,Units,%,Estimated value,,,Total
+Suriname,SR,SUR,740,Annual growth rate of urban population,2000,1.10708899582893,Total,Units,%,Estimated value,,,Total
+Suriname,SR,SUR,740,Annual growth rate of urban population,2020,0.952530107054826,Total,Units,%,Estimated value,,,Total
+Sweden,SE,SWE,752,Annual growth rate of urban population,2000,0.961782632794874,Total,Units,%,Estimated value,,,Total
+Sweden,SE,SWE,752,Annual growth rate of urban population,2020,0.776544622902838,Total,Units,%,Estimated value,,,Total
+Switzerland,CH,CHE,756,Annual growth rate of urban population,2000,0.913711475985731,Total,Units,%,Estimated value,,,Total
+Switzerland,CH,CHE,756,Annual growth rate of urban population,2020,0.693423051781,Total,Units,%,Estimated value,,,Total
+Syrian Arab Republic,SY,SYR,760,Annual growth rate of urban population,2000,1.46527869807212,Total,Units,%,Estimated value,,,Total
+Syrian Arab Republic,SY,SYR,760,Annual growth rate of urban population,2020,4.25828607393674,Total,Units,%,Estimated value,,,Total
+Tajikistan,TJ,TJK,762,Annual growth rate of urban population,2000,2.17522293838397,Total,Units,%,Estimated value,,,Total
+Tajikistan,TJ,TJK,762,Annual growth rate of urban population,2020,2.65241187235775,Total,Units,%,Estimated value,,,Total
+Thailand,TH,THA,764,Annual growth rate of urban population,2000,2.94774005135782,Total,Units,%,Estimated value,,,Total
+Thailand,TH,THA,764,Annual growth rate of urban population,2020,1.23253597420354,Total,Units,%,Estimated value,,,Total
+Timor-Leste,TL,TLS,626,Annual growth rate of urban population,2000,3.08268594790093,Total,Units,%,Estimated value,,,Total
+Timor-Leste,TL,TLS,626,Annual growth rate of urban population,2020,2.33720015556895,Total,Units,%,Estimated value,,,Total
+Togo,TG,TGO,768,Annual growth rate of urban population,2000,3.73855680075461,Total,Units,%,Estimated value,,,Total
+Togo,TG,TGO,768,Annual growth rate of urban population,2020,3.18797887041895,Total,Units,%,Estimated value,,,Total
+Tonga,TO,TON,776,Annual growth rate of urban population,2000,0.139465167741647,Total,Units,%,Estimated value,,,Total
+Tonga,TO,TON,776,Annual growth rate of urban population,2020,1.01648408507311,Total,Units,%,Estimated value,,,Total
+Trinidad and Tobago,TT,TTO,780,Annual growth rate of urban population,2000,0.387260107916012,Total,Units,%,Estimated value,,,Total
+Trinidad and Tobago,TT,TTO,780,Annual growth rate of urban population,2020,0.442196898338188,Total,Units,%,Estimated value,,,Total
+Tunisia,TN,TUN,788,Annual growth rate of urban population,2000,1.42271647161504,Total,Units,%,Estimated value,,,Total
+Tunisia,TN,TUN,788,Annual growth rate of urban population,2020,1.11205948133961,Total,Units,%,Estimated value,,,Total
+Turkmenistan,TM,TKM,795,Annual growth rate of urban population,2000,2.13189463088553,Total,Units,%,Estimated value,,,Total
+Turkmenistan,TM,TKM,795,Annual growth rate of urban population,2020,1.95846620154841,Total,Units,%,Estimated value,,,Total
+Turks and Caicos Islands,TC,TCA,796,Annual growth rate of urban population,2000,4.5775924367739,Total,Units,%,Estimated value,,,Total
+Turks and Caicos Islands,TC,TCA,796,Annual growth rate of urban population,2020,0.999585110650561,Total,Units,%,Estimated value,,,Total
+Tuvalu,TV,TUV,798,Annual growth rate of urban population,2000,2.23097131107326,Total,Units,%,Estimated value,,,Total
+Tuvalu,TV,TUV,798,Annual growth rate of urban population,2020,1.54689288029301,Total,Units,%,Estimated value,,,Total
+Turkey,TR,TUR,792,Annual growth rate of urban population,2000,2.06424438302942,Total,Units,%,Estimated value,,,Total
+Turkey,TR,TUR,792,Annual growth rate of urban population,2020,0.980467519571312,Total,Units,%,Estimated value,,,Total
+Uganda,UG,UGA,800,Annual growth rate of urban population,2000,5.4180038272363,Total,Units,%,Estimated value,,,Total
+Uganda,UG,UGA,800,Annual growth rate of urban population,2020,4.51631009065743,Total,Units,%,Estimated value,,,Total
+Ukraine,UA,UKR,804,Annual growth rate of urban population,2000,-0.339065619573725,Total,Units,%,Estimated value,,,Total
+Ukraine,UA,UKR,804,Annual growth rate of urban population,2020,-0.975620429673038,Total,Units,%,Estimated value,,,Total
+United Arab Emirates,AE,ARE,784,Annual growth rate of urban population,2000,5.3510216497933,Total,Units,%,Estimated value,,,Total
+United Arab Emirates,AE,ARE,784,Annual growth rate of urban population,2020,0.90238453466715,Total,Units,%,Estimated value,,,Total
+United Kingdom,GB,GBR,826,Annual growth rate of urban population,2000,0.929658810083634,Total,Units,%,Estimated value,,,Total
+United Kingdom,GB,GBR,826,Annual growth rate of urban population,2020,0.536956004791065,Total,Units,%,Estimated value,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Annual growth rate of urban population,2000,4.94891947994448,Total,Units,%,Estimated value,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Annual growth rate of urban population,2020,4.26732534324377,Total,Units,%,Estimated value,,,Total
+United States,US,USA,840,Annual growth rate of urban population,2000,1.03921066119842,Total,Units,%,Estimated value,,,Total
+United States,US,USA,840,Annual growth rate of urban population,2020,0.666806251266701,Total,Units,%,Estimated value,,,Total
+Uruguay,UY,URY,858,Annual growth rate of urban population,2000,0.371051655740731,Total,Units,%,Estimated value,,,Total
+Uruguay,UY,URY,858,Annual growth rate of urban population,2020,0.0590579818857758,Total,Units,%,Estimated value,,,Total
+Uzbekistan,UZ,UZB,860,Annual growth rate of urban population,2000,1.83513847222015,Total,Units,%,Estimated value,,,Total
+Uzbekistan,UZ,UZB,860,Annual growth rate of urban population,2020,1.45379978184077,Total,Units,%,Estimated value,,,Total
+Vanuatu,VU,VUT,548,Annual growth rate of urban population,2000,3.08430221820902,Total,Units,%,Estimated value,,,Total
+Vanuatu,VU,VUT,548,Annual growth rate of urban population,2020,2.70757802256504,Total,Units,%,Estimated value,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Annual growth rate of urban population,2000,0.771616986314152,Total,Units,%,Estimated value,,,Total
+Venezuela,VE,VEN,862,Annual growth rate of urban population,2000,0.771616986314152,Total,Units,%,Estimated value,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Annual growth rate of urban population,2020,1.14189147654959,Total,Units,%,Estimated value,,,Total
+Venezuela,VE,VEN,862,Annual growth rate of urban population,2020,1.14189147654959,Total,Units,%,Estimated value,,,Total
+Viet Nam,VN,VNM,704,Annual growth rate of urban population,2000,2.99127825832298,Total,Units,%,Estimated value,,,Total
+Vietnam,VN,VNM,704,Annual growth rate of urban population,2000,2.99127825832298,Total,Units,%,Estimated value,,,Total
+Viet Nam,VN,VNM,704,Annual growth rate of urban population,2020,2.13764450824011,Total,Units,%,Estimated value,,,Total
+Vietnam,VN,VNM,704,Annual growth rate of urban population,2020,2.13764450824011,Total,Units,%,Estimated value,,,Total
+"Virgin Islands, U.S.",VI,VIR,850,Annual growth rate of urban population,2000,-0.184203188840826,Total,Units,%,Estimated value,,,Total
+"Virgin Islands, U.S.",VI,VIR,850,Annual growth rate of urban population,2020,-0.582293119076179,Total,Units,%,Estimated value,,,Total
+Yemen,YE,YEM,887,Annual growth rate of urban population,2000,4.36532621367239,Total,Units,%,Estimated value,,,Total
+Yemen,YE,YEM,887,Annual growth rate of urban population,2020,3.35883070768859,Total,Units,%,Estimated value,,,Total
+Zambia,ZM,ZMB,894,Annual growth rate of urban population,2000,4.27474911248365,Total,Units,%,Estimated value,,,Total
+Zambia,ZM,ZMB,894,Annual growth rate of urban population,2020,3.53067732975768,Total,Units,%,Estimated value,,,Total
+Zimbabwe,ZW,ZWE,716,Annual growth rate of urban population,2000,1.1178350347612,Total,Units,%,Estimated value,,,Total
+Zimbabwe,ZW,ZWE,716,Annual growth rate of urban population,2020,2.3834169797899,Total,Units,%,Estimated value,,,Total
